@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**fatcat-gaming/fatcat-gaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**My name is FatCat, and here's some stuff about me**
 
 - 🔭 I’m currently working on Space Invaders in Python and a website using HTML
 - 🌱 I’m currently learning Python, JavaScript and CSS
